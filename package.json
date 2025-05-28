@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "register": "node commands.js",
+    "register": "node deploy-commands.js",
     "dev": "nodemon app.js"
   },
   "author": "Nasgarth",
